@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+param('${1:param name}')
+]]></content>
+  <tabTrigger>param</tabTrigger>
+  <scope>source.perl</scope>
+  <description>param with name</description>
+</snippet>

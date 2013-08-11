@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+sub ${1:function_name} {
+  ${0:# body...}
+}
+]]></content>
+    <tabTrigger>sub</tabTrigger>
+    <scope>source.perl</scope>
+    <description>Super Simple</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+if (DEBUG) console.log($1);
+]]></content>
+    <tabTrigger>console</tabTrigger>
+    <scope>source.js</scope>
+    <description>for Debug</description>
+</snippet>

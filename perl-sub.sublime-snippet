@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 sub ${1:function_name} {
-  ${0:# body...}
+  ${0:# body ...}
 }
 ]]></content>
     <tabTrigger>sub</tabTrigger>

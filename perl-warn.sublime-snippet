@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-warn qq{-- @{[$1]} } if DEBUG;
+warn qq{-- ${1:key} : @{[${2:value}]} } if DEBUG;
 ]]></content>
   <tabTrigger>warn</tabTrigger>
   <scope>source.perl</scope>

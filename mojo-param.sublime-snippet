@@ -3,6 +3,6 @@
 param('${1:param name}')
 ]]></content>
   <tabTrigger>param</tabTrigger>
-  <scope>source.perl</scope>
+  <scope>source.perl,source.mojo.html</scope>
   <description>param with name</description>
 </snippet>

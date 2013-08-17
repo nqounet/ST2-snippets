@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
-while ($1) {
+for my ${1:var} (${2:vars}) {
   ${0:# body ...}
 }
 ]]></content>
-    <tabTrigger>while</tabTrigger>
+    <tabTrigger>for</tabTrigger>
     <scope>source.perl</scope>
     <description>Loop</description>
 </snippet>

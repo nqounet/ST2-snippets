@@ -1,8 +1,10 @@
 <snippet>
   <content><![CDATA[
-if (DEBUG) console.log($1);
+function($1){
+  $0
+}
 ]]></content>
-  <tabTrigger>console</tabTrigger>
+  <tabTrigger>function</tabTrigger>
   <scope>source.js,source.js.embedded.html</scope>
-  <description>for Debug</description>
+  <description>anonymous function</description>
 </snippet>

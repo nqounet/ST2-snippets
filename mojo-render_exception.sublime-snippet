@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+\$self->render_exception('${1:error message}');
+]]></content>
+  <tabTrigger>render_exception</tabTrigger>
+  <scope>source.perl</scope>
+    <description>fire 500 error</description>
+</snippet>

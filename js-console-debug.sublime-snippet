@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-if (DEBUG) console.log($1);
+console.debug('$1:', $1);
 ]]></content>
   <tabTrigger>console</tabTrigger>
   <scope>source.js,source.js.embedded.html</scope>
-  <description>for Debug</description>
+  <description>console.debug()</description>
 </snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+defined = function(args){
+    return args !== undefined;
+},
+]]></content>
+    <tabTrigger>defined</tabTrigger>
+    <scope>source.js</scope>
+    <description>function defined</description>
+</snippet>

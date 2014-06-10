@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
 try {
-  ${1:expression}
+    ${1:expression}
 }
 catch {
-  ${2:expression}
+    ${2:expression}
 };
 ]]></content>
     <tabTrigger>try</tabTrigger>

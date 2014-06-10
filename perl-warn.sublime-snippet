@@ -1,8 +1,8 @@
 <snippet>
-  <content><![CDATA[
+    <content><![CDATA[
 warn qq{-- ${1:key} : @{[${2:value}]} } if DEBUG;
 ]]></content>
-  <tabTrigger>warn</tabTrigger>
-  <scope>source.perl</scope>
-  <description>warn for DEBUG</description>
+    <tabTrigger>warn</tabTrigger>
+    <scope>source.perl</scope>
+    <description>warn for DEBUG</description>
 </snippet>

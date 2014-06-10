@@ -1,8 +1,8 @@
 <snippet>
-  <content><![CDATA[
+    <content><![CDATA[
 \$self->render_not_found;
 ]]></content>
-  <tabTrigger>render_not_found</tabTrigger>
-  <scope>source.perl</scope>
+    <tabTrigger>render_not_found</tabTrigger>
+    <scope>source.perl</scope>
     <description>fire 404 error</description>
 </snippet>

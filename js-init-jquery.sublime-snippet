@@ -1,0 +1,28 @@
+<snippet>
+    <content><![CDATA[
+(function(\$, window, document, undefined){
+    'use strict';
+    var console,
+    setVars = function(){
+        console = window.console;
+    },
+    handleDocumentReady = function(){
+        console.debug('handleDocumentReady');
+        ${0:# body ...}
+    },
+    handleWindowLoad = function(){
+        console.debug('handleWindowLoad');
+    },
+    init = function(){
+        setVars();
+        \$(document).ready(handleDocumentReady);
+        \$(window).on('load', handleWindowLoad);
+    };
+    init();
+})(window.jQuery, window, document);
+
+]]></content>
+    <tabTrigger>initjquery</tabTrigger>
+    <scope>source.js</scope>
+    <description>jQuery init</description>
+</snippet>

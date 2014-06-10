@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
 if ($1) {
-  ${2:# body...}
+    ${2:# body...}
 }
 else {
-  ${3:# body...}
+    ${3:# body...}
 }
 ]]></content>
     <tabTrigger>ife</tabTrigger>

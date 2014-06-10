@@ -1,14 +1,14 @@
 <snippet>
-  <content><![CDATA[
+    <content><![CDATA[
 \$self->helper(
-  ${1:function name} => sub {
-    my \$self = shift;
-    ${2:# body ...}
-    return;
-  }
+    ${1:function name} => sub {
+        my \$self = shift;
+        ${2:# body ...}
+        return;
+    }
 );
 ]]></content>
-  <tabTrigger>helper</tabTrigger>
-  <scope>source.perl</scope>
+    <tabTrigger>helper</tabTrigger>
+    <scope>source.perl</scope>
     <description>for Debug</description>
 </snippet>

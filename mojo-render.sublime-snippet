@@ -1,12 +1,12 @@
 <snippet>
-  <content><![CDATA[
+    <content><![CDATA[
 \$self->render(
-  layout   => '${1:default}',
-  title    => '${2:title}',
-  template => '${3:index/start}',
+    layout   => '${1:default}',
+    title    => '${2:title}',
+    template => '${3:index/start}',
 );
 ]]></content>
-  <tabTrigger>render</tabTrigger>
-  <scope>source.perl</scope>
+    <tabTrigger>render</tabTrigger>
+    <scope>source.perl</scope>
     <description>setting template</description>
 </snippet>

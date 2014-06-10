@@ -1,8 +1,8 @@
 <snippet>
-  <content><![CDATA[
+    <content><![CDATA[
 param('${1:param name}')
 ]]></content>
-  <tabTrigger>param</tabTrigger>
-  <scope>source.perl,source.mojo.html</scope>
-  <description>param with name</description>
+    <tabTrigger>param</tabTrigger>
+    <scope>source.perl,source.mojo.html</scope>
+    <description>param with name</description>
 </snippet>

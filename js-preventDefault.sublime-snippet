@@ -1,8 +1,8 @@
 <snippet>
-  <content><![CDATA[
+    <content><![CDATA[
 preventDefault();
 ]]></content>
-  <tabTrigger>preventDefault</tabTrigger>
-  <scope>source.js,source.js.embedded.html</scope>
-  <description>preventDefault</description>
+    <tabTrigger>preventDefault</tabTrigger>
+    <scope>source.js,source.js.embedded.html</scope>
+    <description>preventDefault</description>
 </snippet>

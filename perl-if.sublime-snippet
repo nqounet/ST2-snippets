@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 if ($1) {
-  ${2:# body...}
+    ${2:# body...}
 }
 ]]></content>
     <tabTrigger>if</tabTrigger>

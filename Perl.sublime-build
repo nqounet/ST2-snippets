@@ -1,0 +1,5 @@
+{
+    "cmd": ["env", "perl", "-w", "$file"],
+    "file_regex": ".* at (.*) line ([0-9]*)",
+    "selector": "source.perl"
+}

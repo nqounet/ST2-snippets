@@ -1,0 +1,31 @@
+[
+  {
+    "keys": [
+      "super+shift+p"
+    ],
+    "command": "show_overlay",
+    "args": {
+      "overlay": "goto",
+      "show_files": true
+    }
+  },
+  {
+    "keys": [
+      "super+p"
+    ],
+    "command": "show_overlay",
+    "args": {
+      "overlay": "command_palette"
+    }
+  },
+  {
+    "keys": [
+      "super+shift+c"
+    ],
+    "command": "convert_to_utf8",
+    "args": {
+      "encoding": "UTF-8",
+      "stamp": "0"
+    }
+  }
+]

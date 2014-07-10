@@ -1,0 +1,21 @@
+{
+	"auto_match_enabled": false,
+	"color_scheme": "Packages/Theme - Phoenix/Color Scheme/Tomorrow-Night.tmTheme",
+	"default_encoding": "UTF-8",
+	"draw_white_space": "all",
+	"fallback_encoding": "UTF-8",
+	"font_face": "Ricty",
+	"font_size": 18,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_past_end": true,
+	"sublime_auto_complete": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "false"
+}

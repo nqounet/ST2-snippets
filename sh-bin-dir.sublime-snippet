@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+script_absolute_path=\$(cd \$(dirname \$0); pwd)
+]]></content>
+    <tabTrigger>bin_dir</tabTrigger>
+    <scope>source.shell</scope>
+    <description>get bin directory</description>
+</snippet>

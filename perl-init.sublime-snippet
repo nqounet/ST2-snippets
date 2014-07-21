@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+#!/usr/bin/env perl
+use utf8;
+use 5.012;
+
+use DDP {deparse => 1};
+
+]]></content>
+    <tabTrigger>init</tabTrigger>
+    <scope>source.perl</scope>
+    <description>init - Modern Perl</description>
+</snippet>

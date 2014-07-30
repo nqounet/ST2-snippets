@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+@charset "UTF-8";
+/* general */
+/* CSSでのフォント指定について考える（2014年） - DTP Transit
+http://www.dtp-transit.jp/misc/web/post_1881.html */
+body {
+    font-family: "Osaka－等幅", Osaka-mono, "ＭＳ ゴシック", "MS Gothic", monospace;
+}
+$0
+]]></content>
+    <tabTrigger>init</tabTrigger>
+    <scope>source.css</scope>
+    <description>monospace</description>
+</snippet>

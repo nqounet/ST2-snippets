@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+@charset "UTF-8";
+/* general */
+/* CSSでのフォント指定について考える（2014年） - DTP Transit
+http://www.dtp-transit.jp/misc/web/post_1881.html */
+body {
+    font-family: Verdana, "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+}
+$0
+]]></content>
+    <tabTrigger>init</tabTrigger>
+    <scope>source.css</scope>
+    <description>sans-serif</description>
+</snippet>

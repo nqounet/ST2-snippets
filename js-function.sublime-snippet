@@ -2,7 +2,7 @@
     <content><![CDATA[
 function(${1:args}){
     $0
-}
+}${2:,}
 ]]></content>
     <tabTrigger>function</tabTrigger>
     <scope>source.js,source.js.embedded.html</scope>

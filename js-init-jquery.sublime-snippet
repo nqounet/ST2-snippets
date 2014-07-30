@@ -22,7 +22,7 @@
 })(window.jQuery, window, document);
 
 ]]></content>
-    <tabTrigger>initjquery</tabTrigger>
+    <tabTrigger>init</tabTrigger>
     <scope>source.js</scope>
-    <description>jQuery init</description>
+    <description>jQuery initial IIFE</description>
 </snippet>

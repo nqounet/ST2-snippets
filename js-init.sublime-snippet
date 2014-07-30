@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+(function(window, document, undefined){
+    'use strict';
+    var console,
+    setVars = function(){
+        console = window.console;
+    },
+    init = function(){
+        setVars();
+    };
+    init();
+})(window, document);
+
+]]></content>
+    <tabTrigger>init</tabTrigger>
+    <scope>source.js</scope>
+    <description>JavaScript initial IIFE</description>
+</snippet>

@@ -22,7 +22,7 @@
 })(window.jBone, window, document);
 
 ]]></content>
-    <tabTrigger>initjbone</tabTrigger>
+    <tabTrigger>init</tabTrigger>
     <scope>source.js</scope>
     <description>jBone initial IIFE</description>
 </snippet>

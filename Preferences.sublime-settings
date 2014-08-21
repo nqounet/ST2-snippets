@@ -12,6 +12,23 @@
 	[
 		"Vintage"
 	],
+	"perltidy_cmd": "/Users/nobu/.anyenv/envs/plenv/shims/perltidy",
+	"perltidy_options":
+	[
+		"-pbp",
+		"-w",
+		"-iob",
+		"-l=79",
+		"-mbl=2",
+		"-i=4",
+		"-ci=2",
+		"-vt=0",
+		"-pt=2",
+		"-bt=2",
+		"-sbt=2",
+		"-isbc",
+		"-cab=0"
+	],
 	"scroll_past_end": true,
 	"sublime_auto_complete": false,
 	"tab_size": 4,

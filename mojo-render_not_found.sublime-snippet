@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$self->render_not_found;
+render_not_found;
 ]]></content>
     <tabTrigger>render_not_found</tabTrigger>
     <scope>source.perl</scope>

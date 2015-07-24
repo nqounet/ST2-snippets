@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$self->render(
+render(
     layout   => '${1:default}',
     title    => '${2:title}',
     template => '${3:index/start}',

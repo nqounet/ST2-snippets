@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$self->helper(
+helper(
     ${1:function name} => sub {
         my \$self = shift;
         ${2:# body ...}

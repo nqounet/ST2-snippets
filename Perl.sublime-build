@@ -1,5 +1,6 @@
 {
-    "cmd": ["/Users/nobu/.anyenv/envs/plenv/shims/perl", "-w", "$file_name"],
+    "cmd": ["/Users/nobu/.anyenv/envs/plenv/shims/carton","exec","--","/Users/nobu/.anyenv/envs/plenv/shims/perl", "-Ilib", "-w", "$file"],
     "file_regex": ".* at (.*) line ([0-9]*)",
+    "working_dir": "$folder",
     "selector": "source.perl"
 }

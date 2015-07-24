@@ -1,13 +1,13 @@
 <snippet>
     <content><![CDATA[
 if ($1) {
-    ${2:# body...}
-}
-else {
     ${3:# body...}
 }
+${2:else \{
+    ${4:# body...}
+\}}
 ]]></content>
-    <tabTrigger>ife</tabTrigger>
+    <tabTrigger>if</tabTrigger>
     <scope>source.perl</scope>
     <description>if ... else ...</description>
 </snippet>

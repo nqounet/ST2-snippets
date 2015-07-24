@@ -1,10 +1,15 @@
 <snippet>
     <content><![CDATA[
-sub ${1:function_name} {
-    ${0:# body ...}
+# ${0:sub_name}
+sub ${1:sub_name} {
+    my \$self = shift;
+    # args
+    # logic
+    # returns
+    return;
 }
 ]]></content>
     <tabTrigger>sub</tabTrigger>
     <scope>source.perl</scope>
-    <description>Super Simple</description>
+    <description>self ... return</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+my \$self = shift;
+]]></content>
+    <tabTrigger>my</tabTrigger>
+    <scope>source.perl</scope>
+    <description>my $self</description>
+</snippet>
